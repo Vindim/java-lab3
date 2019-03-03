@@ -1,0 +1,18 @@
+{
+  "abiturients": [
+    {
+      "id": 1,
+      "lastName": "ssd",
+      "firstName": "sdds",
+      "middleName": "ds",
+      "faculty": "d"
+    },
+    {
+      "id": 2,
+      "lastName": "Петров",
+      "firstName": "Петр",
+      "middleName": "Петрович",
+      "faculty": "ОФ"
+    }
+  ]
+}
